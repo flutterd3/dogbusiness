@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "912010379300",
+    "project_id": "dogbusiness-eaec8",
+    "storage_bucket": "dogbusiness-eaec8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912010379300:android:a6248f79be63a0f924d8b1",
+        "android_client_info": {
+          "package_name": "com.aavash.dogbusiness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912010379300-dg0ed9u35o444iusamno9dft4avtqk7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeinr-1m3up4VJlCpw9EiwoOCNlAeA9g8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912010379300-dg0ed9u35o444iusamno9dft4avtqk7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
